@@ -18,11 +18,10 @@ Then, from this folder, run:
 
 Then, `cd` into any of the following folders:
 - A0: triangle
-- A1: cube
-- A2: puppet
-- A3: 
-- A4
-- Pool
+- A1: cube sandbox
+- A2: cube wireframe
+- A3: puppet
+- A4: raytracer
 
 Read the README in that subfolder for further instructions.
 
