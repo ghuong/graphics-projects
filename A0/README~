@@ -1,0 +1,3 @@
+Compilation: In A0 folder, run `make`, then `./A0`. Ran on lab computer CS009691 in the Linux Lab.
+
+Manual: Added method "resetShape" to A0.hpp, its purpose is self-explanatory.
