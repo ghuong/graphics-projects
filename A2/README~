@@ -1,0 +1,3 @@
+Compilation: no special changes to compilation step; simply `make`, then `./A2`. Ran on gl16.
+
+Manual: assumptions made: near plan cannot exceed far plane (and vice versa), and near plane cannot go below zero. coloured the cube gnomon red(x), green(y), blue(z); world gnomon is coloured magenta(x), cyan(y), yellow(z). The cube is coloured white, except for its top-face which is coloured green to prevent optical illusions for the user. Pressing 'P' to select Perspective mode also happens to pause the program; I did not bother to disable this pause functionality.
